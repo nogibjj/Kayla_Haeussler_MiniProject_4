@@ -4,15 +4,18 @@
 
 
 IDS 706: Mini Project 4
-Pandas Descriptive Statistics Script
+Github Actions Matrix Build for Multiple Python Versions
 Kayla Haeussler
 
-The purpose of this assignment was to create a  Python template to be used for future projects with best practices in place for testing, development and deployment.
+The purpose of this assignment was to set up a Github actions workflow which will test across at least 3 different Python versions.
+For this assignment, I used my previous Pandas descriptive statistics repository, mini project 2, as a template, and then added the following to the ```hello.yml``` in out github workflows:
 
 
 # Assignment Requirements
 - Set up a Gitlab Actions workflow
 - Test across at least 3 different Python versions
+
+
 
 # Data Set Used in this Project
 The data set used in this project, StudentPerformanceFactors.csv, was pulled from kaggle.com, a website offering public domain data sets. This data is described as a "comprehensive overview of various factors affecting student performance in exams", including data for 6,607 students's grade on a final exam as well as information on various factors that may affect their exam performance, such as # of hours studied, percentage of classes attended, parental involvement (Low, Medium, High), and many others.
