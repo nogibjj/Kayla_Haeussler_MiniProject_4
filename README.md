@@ -9,6 +9,7 @@ Kayla Haeussler
 
 The purpose of this assignment was to set up a Github actions workflow which will test across at least 3 different Python versions.
 For this assignment, I used my previous Pandas descriptive statistics repository, mini project 2, as a template, and then added the following to the ```hello.yml``` in out github workflows:
+<img width="522" alt="Screenshot 2024-09-25 at 2 12 36 PM" src="https://github.com/user-attachments/assets/a4db228a-8296-4645-b853-b453b40ac43c">
 
 
 # Assignment Requirements
